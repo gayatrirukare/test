@@ -10,7 +10,7 @@ function App() {
           Hello World Changes in App.js files
         </p>
         <p>
-          changes in app.js
+          changes in app.js should reflect in firebase deploy
         </p>
         <a
           className="App-link"
