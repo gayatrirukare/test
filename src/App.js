@@ -12,6 +12,9 @@ function App() {
         <p>
           changes in app.js should reflect in firebase deploy checking
         </p>
+        <p>
+          changes in app.js should reflect in firebase deploy checking but its not working 
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
