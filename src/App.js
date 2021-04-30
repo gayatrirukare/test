@@ -13,7 +13,7 @@ function App() {
           changes in app.js should reflect in firebase deploy checking
         </p>
         <p>
-          changes in app.js should reflect in firebase deploy checking but its not working 
+          changes in app.js should reflect in firebase deploy checking but its not working why its not working?
         </p>
         <a
           className="App-link"
